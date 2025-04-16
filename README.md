@@ -66,6 +66,8 @@
         
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotichukkalajosef&hide=&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1874155" style='border:none;'></iframe>
+
 </div>
 
 <br/><br/>
