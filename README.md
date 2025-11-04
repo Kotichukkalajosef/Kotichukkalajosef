@@ -33,6 +33,9 @@
   </a>
 </div>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1874155" style='border:none;'></iframe>
+
+
 <hr />
 
 <h2 align="center">⚒️ Core Skills & Tools</h2>
