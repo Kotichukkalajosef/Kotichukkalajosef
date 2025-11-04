@@ -30,10 +30,10 @@
   </a>
   <a href="https://tryhackme.com/p/YourProfile" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-00A8FF?style=for-the-badge&logo=tryhackme&logoColor=white" target="_blank" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/josefkotichukkal.png" alt="Your Image Badge" />
+
   </a>
 </div>
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1874155" style='border:none;'></iframe>
 
 
 <hr />
